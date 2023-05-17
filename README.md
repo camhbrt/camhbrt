@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Camille Hébert and I am currently learning programming @AdaTechSchool
+My name is Camille Hébert, a former music teacher currently learning programming @AdaTechSchool since January 2023.
+
+I am looking for a 12 months apprenticeship starting october 2023
+
