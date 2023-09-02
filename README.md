@@ -39,4 +39,3 @@ Connect with me : <a href="https://www.linkedin.com/in/camille-hebert-dev/">
   </br>
   ![Amelia-gif](https://github.com/camhbrt/camhbrt/assets/119520577/d5b695cc-23e8-4dd3-b197-a34618e3af84)
 
-
