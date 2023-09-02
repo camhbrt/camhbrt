@@ -6,7 +6,6 @@
   
 - 💻 I am passionate about front-end, UX and UI
 
-  > "Form follows function" - Louis Sullivan
 
 
 Connect with me : <a href="https://www.linkedin.com/in/camille-hebert-dev/">
