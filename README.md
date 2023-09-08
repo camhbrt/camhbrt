@@ -18,7 +18,9 @@ Connect with me : <a href="https://www.linkedin.com/in/camille-hebert-dev/">
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,laravel,php,vscode,git,github,figma,jest,mysql,mongodb,nodejs,express&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,laravel,php,mysql,mongodb,nodejs,express,jest&perline=5" />
+  </br></br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
   </a>
 </p>
 </br>
