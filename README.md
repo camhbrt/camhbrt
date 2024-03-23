@@ -20,10 +20,10 @@
 
 <h3 align="left">🛠️ Languages and tools I am used to work with</h3>
   <img src="https://skillicons.dev/icons?i=typescript,vue,nuxt,tailwind,pinia,postgres,graphql" />
-<h3 align="left"> 🚧 Languages I am currently learning </h3>
-  <img src="https://skillicons.dev/icons?i=python,django" />
-<h3 align="left"> 💭 I also used this in some projects </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,docker,lua,mongodb,nodejs,express" />
+<h3 align="left"> 🚧 I am currently learning theese ones  </h3>
+  <img src="https://skillicons.dev/icons?i=python,django,docker"/>
+<h3 align="left"> 💭 I also used those in some projects </h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,lua,mongodb,nodejs,express" />
 
 </br>
 </br>
