@@ -1,4 +1,4 @@
-![Frame 1banner](https://github.com/camhbrt/TodoREACT/assets/119520577/205221c8-f70f-49d7-921d-d967fdbcccf0)
+
  <h1 align="center">Hi there ! 👋 </h1>
 
 </br>
@@ -6,7 +6,7 @@
 
  <h3 align="left">I am Camille, a french web developer based in Paris</h3>
 
-- 🎶 I used to be a music teacher in middle school
+- 🎶 I am a middle school music teacher turned into a web developer
 
 - 💖 I study @AdaTechSchool and started working @Netatmo in October 2023 as a web developer apprentice
 
@@ -29,10 +29,14 @@
 </br>
 </br>
 
-## My works 💪
+## My work 💪
 
-<a href="https://www.netatmo.com/fr-fr">Netatmo</a>'s new brand website (to be released) ```nuxt``` ```typescript``` ```directus``` ```graphql``` ```tailwind```
+<a href="https://www.netatmo.com/fr-fr">Netatmo</a>'s new showcase website ```nuxt``` ```typescript``` ```directus``` ```graphql``` ```tailwind```
 ![Netatmo](https://github.com/camhbrt/camhbrt/assets/119520577/2c77085f-497a-496d-a3ae-8aaf01010c1d)
+</br>
+
+<a href="https://gitlab.com/boukin">Boukin</a> ```nuxt``` ```typescript``` ```django``` ```postgre sql``` ```docker```
+![Capture d'écran 2024-10-01 221418](https://github.com/user-attachments/assets/30eacf55-86fd-4c44-8dab-84ffe8a13469)
 </br>
 
 <a href="https://github.com/camhbrt/MysteryQuest">Mystery Quest</a> ```react native``` ```node``` ```express``` ```postgre sql```
@@ -45,5 +49,6 @@
 
 <a href="https://github.com/camhbrt/amelias_castle">Amelia's castle</a> ```lua```
 </br>
+You can even try it <a href="https://www.lexaloffle.com/bbs/?tid=52831"> here </a>!
+</br>
 ![Amelia-gif](https://github.com/camhbrt/camhbrt/assets/119520577/d5b695cc-23e8-4dd3-b197-a34618e3af84)
-
